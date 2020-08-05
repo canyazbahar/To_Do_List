@@ -1,6 +1,6 @@
 # To Do List
 Hello Guys, just double-click to index.html
 
-If you want you can change the name of the file:  Example: (index => MyToDoList)
+You can also change the name of the file if you want.   Example: (index => MyToDoList)
 
 Enjoy it :)
